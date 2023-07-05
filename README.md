@@ -3,7 +3,7 @@
 This is a python implementation of the Ant Colony Optimization algorithm. The distances between each node is defined in the variable `distances` in the `aco.py` file. The algorithm will find the shortest path between the nodes.
 
 For example we have the following distance matrix:
-```
+```python
 distances = np.array(
         [
             [np.inf, 2, 2, 5, 7],
@@ -43,7 +43,7 @@ Which can be visualized as:
 
 ## Requirements
 You can install the requirements by executing the following command:
-```
+```sh
 pip install -r requirements.txt
 ```
 
@@ -58,7 +58,7 @@ The algorithm can be run by executing the `aco.py` file. The algorithm can be co
 - `beta`: The beta parameter.
 
 ### Execute Script
-```
+```sh
 python aco.py
 ```
 
