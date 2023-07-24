@@ -68,7 +68,6 @@ python aco.py
 
 ## References
 - [Ant Colony Optimization](https://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms)
-- [Ant Colony Optimization for the Traveling Salesman Problem](https://www.researchgate.net/publication/220878660_Ant_Colony_Optimization_for_the_Traveling_Salesman_Problem)
 
 ## License
 This project is licensed under the terms of the MIT license.
