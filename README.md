@@ -72,6 +72,10 @@ python aco.py
 
 ## Results
 
+```bash
+shorted_path: ([(0, 2), (2, 3), (3, 4), (4, 1), (1, 0)], 9.0)
+```
+
 ## References
 
 - [Ant Colony Optimization](https://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms)
